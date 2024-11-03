@@ -3,3 +3,4 @@ it's the first line from user_bis. Ex 6.2
 New line for exercice 7 on conflicts
 
 New line for exercice 8.3 on merge from original_user 
+New line from user_bis for exercise 8.3 on merge
