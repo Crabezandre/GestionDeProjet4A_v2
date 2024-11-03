@@ -1,2 +1,3 @@
 it's the first line from user_bis. Ex 6.2
-it's a new line fros user_bis. Ex 7
+
+New line for exercice 7 on conflicts
